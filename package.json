@@ -1,6 +1,7 @@
 {
-  "name": "scaleable-chat",
   "private": true,
+  "name": "your-project-name",
+  "version": "1.0.0",
   "scripts": {
     "build": "turbo build",
     "dev": "turbo dev",
@@ -15,7 +16,7 @@
   "engines": {
     "node": ">=18"
   },
-  "packageManager": "npm@10.8.2",
+  "packageManager": "yarn@1.22.19",
   "workspaces": [
     "apps/*",
     "packages/*"
